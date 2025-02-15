@@ -22,10 +22,6 @@ This project involves optimizing a WordPress theme for **performance, security, 
 - Added smooth scrolling in `custom.js`.  
 - Tweaked header/footer layout.  
 
-✅ **Deployment**  
-- Hosted on **000WebHost/Vercel/Netlify/WordPress Staging**.  
-- GitHub repository for version control.  
-
 ---
 
 ## 🚀 Installation & Setup
